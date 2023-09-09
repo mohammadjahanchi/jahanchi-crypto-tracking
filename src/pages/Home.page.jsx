@@ -3,11 +3,10 @@ import React from "react";
 const HomePage=()=>{
     return (
         <div>
-            <h1>Home Page</h1>
-            <h1>Home Page</h1>
-            <h1>Home Page</h1>
-            <h1>Home Page</h1>
-            <h1>Home Page</h1>
+            <h5>Home Page</h5>
+            <h5>Home Page</h5>
+            <h5>Home Page</h5>
+           
         </div>
     )
         

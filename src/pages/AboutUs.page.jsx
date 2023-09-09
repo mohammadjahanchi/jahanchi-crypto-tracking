@@ -3,10 +3,10 @@ import React from "react";
 const AboutUs=()=>{
     return(
         <div>
-            <h2>Aboute Us</h2>
-            <h2>Aboute Us</h2>
-            <h2>Aboute Us</h2>
-            <h2>Aboute Us</h2>
+            <h5>Aboute Us</h5>
+            <h5>Aboute Us</h5>
+            <h5>Aboute Us</h5>
+            
            
         </div>
     )

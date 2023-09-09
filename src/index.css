@@ -8,5 +8,9 @@ body{
 
 }
 .wrapper{
-    background-color: blue;
+    background-color: rgb(226, 71, 205);
+    /* min-height:calc(100vhh - 56px- 40px); */
+   min-height:calc(100vh - 56px - 40px) ;
+
+
 }
