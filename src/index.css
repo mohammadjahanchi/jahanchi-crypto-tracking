@@ -8,7 +8,7 @@ body{
 
 }
 .wrapper{
-    background-color: rgb(226, 71, 205);
+    background-color: rgb(255, 255, 255);
     /* min-height:calc(100vhh - 56px- 40px); */
    min-height:calc(100vh - 56px - 40px) ;
 
