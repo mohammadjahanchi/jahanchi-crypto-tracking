@@ -1,10 +1,5 @@
 .spinner{
-   /* display: flex;
-   align-items: center;
-   left: 50px;
-   /* background-color: blueviolet; */
-   /* margin-left: 150px; */
-   /* justify-content: center; */ 
+  
    display: grid;
    place-items: center;
     
