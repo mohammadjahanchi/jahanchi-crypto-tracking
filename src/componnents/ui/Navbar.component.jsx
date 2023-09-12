@@ -4,8 +4,12 @@ import { Link } from "react-router-dom";
 import { FaCoins } from 'react-icons/fa'
 const NavbarComponent = () => {
     const btnToggleRef=useRef();
+
     const toggleMenue=()=>{
-      btnToggleRef.current.click();
+      // btnToggleRef.current.click();
+      if(window.innerWidth<993){
+         btnToggleRef.current.click();
+      }
     }
     
     return (
